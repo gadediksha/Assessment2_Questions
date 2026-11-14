@@ -84,21 +84,13 @@ Note: On Windows, use "output.exe" to run the compiled program.
 📂 Repository Structure
 
 DSA-Algorithms-in-C/
-
 |
-
 ├── Arrays/
-
 ├── Matrices/
-
 ├── Stack/
-
 ├── Queue/
-
 ├── Linked-List/
-
 │
-
 └── README.md
 
 👩‍💻 Author
