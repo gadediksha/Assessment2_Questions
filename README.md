@@ -84,6 +84,7 @@ Note: On Windows, use "output.exe" to run the compiled program.
 📂 Repository Structure
 
 DSA-Algorithms-in-C/
+
 |
 
 ├── Arrays/
@@ -97,6 +98,7 @@ DSA-Algorithms-in-C/
 ├── Linked-List/
 
 │
+
 └── README.md
 
 👩‍💻 Author
